@@ -1,6 +1,11 @@
 package org.example;
+
+import org.example.classAndObject.Car;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.print("Hello world!");
+        Car car=new Car();
+        car.speed=100;
+        System.out.println(car.speed);
     }
 }
