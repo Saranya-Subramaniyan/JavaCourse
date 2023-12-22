@@ -7,5 +7,6 @@ public class Main {
         Car car=new Car();
         car.speed=100;
         System.out.println(car.speed);
+        car.speedCondition();
     }
 }
