@@ -1,4 +1,4 @@
-package org.example.inheritance;
+package org.example.OOPS.inheritance;
 import java.lang.*;
 public class Vehicle {
     private String engine;

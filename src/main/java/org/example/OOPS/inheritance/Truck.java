@@ -1,4 +1,4 @@
-package org.example.inheritance;
+package org.example.OOPS.inheritance;
 
 public class Truck extends Vehicle {
 

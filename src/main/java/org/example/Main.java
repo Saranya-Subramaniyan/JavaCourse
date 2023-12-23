@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.classAndObject.Car;
+import org.example.OOPS.classAndObject.Car;
 
 public class Main {
     public static void main(String[] args) {

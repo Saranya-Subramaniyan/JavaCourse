@@ -1,4 +1,4 @@
-package org.example.classAndObject;
+package org.example.OOPS.classAndObject;
 import java.lang.*;
 public class Car {
     public int speed;
