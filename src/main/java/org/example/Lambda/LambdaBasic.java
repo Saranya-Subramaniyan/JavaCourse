@@ -1,4 +1,5 @@
 package org.example.Lambda;
+@FunctionalInterface
 interface LambdaExp{
     public void demo();
 }
