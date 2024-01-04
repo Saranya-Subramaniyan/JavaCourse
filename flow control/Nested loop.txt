@@ -1,4 +1,4 @@
-package org.example.flowControl;
+package org.javaCourse.flowControl;
 
 public class NestedLoop {
     public static void main(String[] args) {

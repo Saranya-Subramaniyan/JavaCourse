@@ -1,4 +1,4 @@
-package org.example.flowControl.Loops;
+package org.javaCourse.flowControl.Loops;
 
 public class forLoop {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.solveQuestion;
+package org.javaCourse.solveQuestion;
 /*
 @
 @@

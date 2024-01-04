@@ -1,4 +1,4 @@
-package org.example.Operators;
+package org.javaCourse.Operators;
 
 public class MakingDecision {
     public static void main(String[] args) {

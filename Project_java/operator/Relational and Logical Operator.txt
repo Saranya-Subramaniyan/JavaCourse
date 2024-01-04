@@ -1,4 +1,4 @@
-package org.example;
+package org.javaCourse;
 /* Author: saranya */
 
 public class Sample {
